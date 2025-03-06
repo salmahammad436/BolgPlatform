@@ -15,7 +15,7 @@ Mongoose (ORM)
 
 🚀 Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-repo.git](https://github.com/salmahammad436/BolgPlatform.git
+git clone https://github.com/salmahammad436/BolgPlatform.git
 
 2️⃣ Backend Setup
 cd backend
