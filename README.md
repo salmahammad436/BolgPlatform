@@ -5,13 +5,13 @@ A full-stack blog application where users can create and view posts.
 Frontend
 React.js (with TypeScript)
 Tailwind CSS (for styling)
-React Router (for navigation)
+React  (for navigation)
 Axios (for API calls)
 
 Backend
 NestJS (for scalable backend)
 MongoDB (database)
-Mongoose (ORM)
+Mongoose 
 
 🚀 Installation & Setup
 1️⃣ Clone the Repository
